@@ -10,6 +10,6 @@ $ pip install django==1.9.9
 
 ## Rodar o servidor
 ```
-./env/manage.py runserver 0:8000
+./todo/manage.py runserver 0:8000
 ```
 
